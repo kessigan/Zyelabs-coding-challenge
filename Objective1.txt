@@ -18,5 +18,6 @@
 -Pass rate per a year for a single school
 -Aggregate pass rate per a year
 -Camparison of school to national avarage
+-Can group schools by pass rate i.e schools with a pass rate between 60 and 70 percent
 
 Should more information relating school to province/suburb be available then the data may be further sorted
